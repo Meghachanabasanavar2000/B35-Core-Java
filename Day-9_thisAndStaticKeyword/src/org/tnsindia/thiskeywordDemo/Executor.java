@@ -15,10 +15,6 @@ public class Executor {
 		v.display2();
 		
 		
-		/*Food f1=new Food();
-		f1.display();
-		
-		Color c=new color();*/
 		
 		
 

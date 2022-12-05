@@ -1,8 +1,6 @@
  package org.tnsindia.superkeywordDemo;
 
 public class Animal {
-
-		//variable
 		protected String name="Wild-Animal";
 		
 		//parent constructor
