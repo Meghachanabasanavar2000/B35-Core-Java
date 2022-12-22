@@ -2,19 +2,19 @@ package org.tnsindia.CollectionDemo;
 
 import java.util.Arrays;
 //driver class
-public class ComparatorDemo {
+public class AgeComparator {
 
 	public static void main(String[] args) {
 		Employee emp[]=new Employee[2];
 		
 		emp[0]=new Employee();
 		emp[0].setAge(32);
-		emp[0].setName("Bhuvneshwari");
+		emp[0].setName("Megha");
 		
 		
 		emp[1]=new Employee();
 		emp[1].setAge(22);
-		emp[1].setName("Pooja");
+		emp[1].setName("Mithila");
 		
 		//sorting the age
 		Arrays.sort(emp,new AgeComparator());
